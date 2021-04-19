@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://www.linkedin.com/in/alexsandro-ara%C3%BAjo-3a73961b9/)
+[![Instagram Badge](https://www.instagram.com/alexgouveiadearaujo/)
