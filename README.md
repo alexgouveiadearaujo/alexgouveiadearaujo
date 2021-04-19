@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### skills
+
 ### Hellooo! 👋 Welcome to my profile
 
+<div class="skills" ><br>
+<img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Alex-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
-
+##
 
 <div>
 <a href = "mailto: alexgouveiadearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
