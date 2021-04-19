@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
+<div>
+<a href="https://github.com/alexgouveiadearaujo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgouveiadearaujo&layout=compact&langs_count=8&theme=dracula"/>
+<div>
+
 <div class="skills" ><br>
 <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
